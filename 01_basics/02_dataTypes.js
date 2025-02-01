@@ -24,6 +24,8 @@ let state;
 // object
 
 console.log(typeof "hitesh");
+console.log(typeof age);
 console.log(typeof undefined);
 console.log(typeof null);
+
 
